@@ -1,0 +1,18 @@
+{
+    "questions": {
+        "all": 0,
+        "sql-server-2008": 18,
+        "sql-server-2012": 2,
+        "sql-server-2005": 10,
+        "azure": 14,
+        "amazon-web-services": 38,
+        "sql-server": 42,
+        "mysql": 69
+    },
+    "users": {
+        "only": 2894,
+        "withBadge": 471
+    },
+    "tags": 2,
+    "badges": 0
+}

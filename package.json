@@ -1,0 +1,22 @@
+{
+  "name": "serverfault-data-extract",
+  "version": "1.0.0",
+  "description": "Node-based app to extract data from Serverfault and translate JSON data into SQL records.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentheofilus/ServerfaultDataExtract.git"
+  },
+  "author": "Ken Prayogo",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/kentheofilus/ServerfaultDataExtract/issues"
+  },
+  "homepage": "https://github.com/kentheofilus/ServerfaultDataExtract#readme",
+  "dependencies": {
+    "jsonfile": "^2.4.0"
+  }
+}
