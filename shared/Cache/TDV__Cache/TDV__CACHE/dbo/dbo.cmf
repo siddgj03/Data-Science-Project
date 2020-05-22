@@ -1,0 +1,72 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<!-- salt:6f4dff68-ff75-4e3c-ab45-0ba6d5e14b94 -->
+<metadata name="dbo" path="/shared/Cache/TDV_Cache/TDV_CACHE/dbo" type="CONTAINER" subtype="SCHEMA" changeToken="-4836627766549938174">
+  <security>
+    <owner user="admin" domain="composite"/>
+  </security>
+  <attribute name="autoAddChildren" type="BOOLEAN">false</attribute>
+  <attribute name="creationDate" type="LONG">1560888334361</attribute>
+  <attribute name="creatorUserDomain" type="STRING">composite</attribute>
+  <attribute name="creatorUserId" type="INTEGER">-1973</attribute>
+  <attribute name="creatorUserName" type="STRING">admin</attribute>
+  <attribute name="lastModifiedDate" type="LONG">1589374504425</attribute>
+  <attribute name="lastModifiedUserDomain" type="STRING">composite</attribute>
+  <attribute name="lastModifiedUserId" type="INTEGER">-1973</attribute>
+  <attribute name="lastModifiedUserName" type="STRING">admin</attribute>
+  <attribute name="resourceModifiedDateOnSourceCISSite" type="LONG">1560888334361</attribute>
+  <attribute name="selectionState" type="INTEGER">1</attribute>
+  <attribute name="userDeletedSet" type="SET">
+    <item type="NAME_TYPE_PAIR">
+      <name>KenDimDate0</name>
+      <type>2</type>
+    </item>
+    <item type="NAME_TYPE_PAIR">
+      <name>KenDimDate1</name>
+      <type>2</type>
+    </item>
+    <item type="NAME_TYPE_PAIR">
+      <name>Table_1</name>
+      <type>2</type>
+    </item>
+    <item type="NAME_TYPE_PAIR">
+      <name>brg_prov0</name>
+      <type>2</type>
+    </item>
+    <item type="NAME_TYPE_PAIR">
+      <name>brg_prov1</name>
+      <type>2</type>
+    </item>
+    <item type="NAME_TYPE_PAIR">
+      <name>brg_prov2</name>
+      <type>2</type>
+    </item>
+    <item type="NAME_TYPE_PAIR">
+      <name>Assignments0</name>
+      <type>2</type>
+    </item>
+    <item type="NAME_TYPE_PAIR">
+      <name>Assignments1</name>
+      <type>2</type>
+    </item>
+    <item type="NAME_TYPE_PAIR">
+      <name>MEMBER_SECURE2</name>
+      <type>2</type>
+    </item>
+    <item type="NAME_TYPE_PAIR">
+      <name>MEMBER_SECURE1</name>
+      <type>2</type>
+    </item>
+    <item type="NAME_TYPE_PAIR">
+      <name>MEMBER_SECURE0</name>
+      <type>2</type>
+    </item>
+    <item type="NAME_TYPE_PAIR">
+      <name>Assignments2</name>
+      <type>2</type>
+    </item>
+    <item type="NAME_TYPE_PAIR">
+      <name>KenDimDate2</name>
+      <type>2</type>
+    </item>
+  </attribute>
+</metadata>
